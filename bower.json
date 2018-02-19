@@ -1,0 +1,19 @@
+{
+    "name": "signature_pad",
+    "description": "Library for drawing smooth signatures.",
+    "version": "2.3.2",
+    "homepage": "https://github.com/szimek/signature_pad",
+    "license": "MIT",
+    "author": {
+        "name": "Szymon Nowak",
+        "email": "szimek@gmail.com",
+        "url": "https://github.com/szimek"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fedeonline/signature_pad"
+    },
+    "main": [
+      "dist/signature_pad.min.js"
+    ]
+}
