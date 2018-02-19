@@ -14,6 +14,10 @@
         "url": "https://github.com/fedeonline/signature_pad"
     },
     "main": [
-      "dist/signature_pad.min.js"
-    ]
+      "dist/signature_pad.js"
+    ],
+    "install": {
+          "path": "dist",
+          "ignore": ["src", "example"]
+    }
 }
