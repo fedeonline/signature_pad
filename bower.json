@@ -15,9 +15,5 @@
     },
     "main": [
       "dist/signature_pad.js"
-    ],
-    "install": {
-          "path": "dist",
-          "ignore": ["src", "example"]
-    }
+    ]
 }
